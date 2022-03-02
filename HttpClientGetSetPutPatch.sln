@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientGetSetPutPatch", "HttpClientGetSetPutPatch\HttpClientGetSetPutPatch.csproj", "{FDE1540B-8AC1-4DA1-8817-143C4F51D17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE1540B-8AC1-4DA1-8817-143C4F51D17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE1540B-8AC1-4DA1-8817-143C4F51D17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE1540B-8AC1-4DA1-8817-143C4F51D17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE1540B-8AC1-4DA1-8817-143C4F51D17F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B6696C2-942A-4C8C-AD58-F02AB19912E0}
+	EndGlobalSection
+EndGlobal
